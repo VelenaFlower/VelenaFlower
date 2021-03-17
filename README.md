@@ -3,8 +3,8 @@
 ## I'm Elena. I'm a beginner *Front-end developer* from Minsk.
 
 ### 💻 Languages and Technologies:
-![HTML](https://img.shields.io/badge/-HTML-404040?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-404040?style=flat&logo=CSS3)
+![HTML](https://img.shields.io/badge/-HTML-404040?style=flat&logo=html5) 
+![CSS](https://img.shields.io/badge/-CSS-404040?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/-SASS-404040?style=flat&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=flat&logo=bootstrap)
@@ -19,9 +19,8 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-404040?style=flat&logo=GitHub)
 ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-404040?style=flat&logo=Adobe-Photoshop)
 ![Figma](https://img.shields.io/badge/-Figma-404040?style=flat&logo=figma)
-![Trello](https://img.shields.io/badge/-Trello-404040?style=flat&logo=trello)
-![Vsual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-404040?style=flat&logo=visual-studio-code)
-
+![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0079BF)
+![Vsual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-404040?style=flat&logo=visual-studio-code&logoColor=007ACC) 
 ---
 ### 💬 Contacts:
 Email: elenayanchenko512@gmail.com   
