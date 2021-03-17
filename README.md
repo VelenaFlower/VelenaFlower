@@ -21,10 +21,18 @@
 ![Figma](https://img.shields.io/badge/-Figma-404040?style=flat&logo=figma)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=Trello&logoColor=0079BF)
 ![Vsual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-404040?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+
 ---
 ### 💬 Contacts:
 Email: elenayanchenko512@gmail.com   
-Telegram, Instagram: @velsperia
+Telegram, Instagram: @velsperia   
+Linkedin: https://www.linkedin.com/in/eyanchenko/   
+
+---
+### ⚙️ GitHub Analytics   
+
+<img height="160em" align="left" alt="VelenaFlower's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VelenaFlower&theme=cobalt&show_icons=true&include_all_commits=true" /> 
+<img height="160em" align="rigth" alt="VelenaFlower's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VelenaFlower&theme=cobalt&layout=compact&hide=php" />
 
 <!--
 **VelenaFlower/VelenaFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
