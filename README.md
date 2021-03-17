@@ -1,5 +1,32 @@
 ### Hi there 👋
 
+## I'm Elena. I'm a beginner *Front-end developer* from Minsk.
+
+### 💻 Languages and Technologies:
+![HTML](https://img.shields.io/badge/-HTML-404040?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-404040?style=flat&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=JavaScript)
+![SASS](https://img.shields.io/badge/-SASS-404040?style=flat&logo=sass)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react)
+![Markdown](https://img.shields.io/badge/-Markdown-404040?style=flat&logo=Markdown)   
+---
+### 🛠 Tools:   
+![WebStorm](https://img.shields.io/badge/-WebStorm-404040?style=flat&logo=webstorm)
+![Gulp](https://img.shields.io/badge/-Gulp-404040?style=flat&logo=gulp)
+![Webpack](https://img.shields.io/badge/-Webpack-404040?style=flat&logo=webpack)
+![Git](https://img.shields.io/badge/-Git-404040?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-404040?style=flat&logo=GitHub)
+![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-404040?style=flat&logo=Adobe-Photoshop)
+![Figma](https://img.shields.io/badge/-Figma-404040?style=flat&logo=figma)
+![Trello](https://img.shields.io/badge/-Trello-404040?style=flat&logo=trello)
+![Vsual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-404040?style=flat&logo=visual-studio-code)
+
+---
+### 💬 Contacts:
+Email: elenayanchenko512@gmail.com   
+Telegram, Instagram: @velsperia
+
 <!--
 **VelenaFlower/VelenaFlower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
