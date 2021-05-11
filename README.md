@@ -1,15 +1,16 @@
 ### Hi there 👋
 
-## I'm Elena. I'm a beginner *Front-end developer* from Minsk.
+## I'm Elena. 
+<!-- I'm a beginner *Front-end developer* from Minsk. -->
 
 ### 💻 Languages and Technologies:
 ![HTML](https://img.shields.io/badge/-HTML-404040?style=flat&logo=html5) 
 ![CSS](https://img.shields.io/badge/-CSS-404040?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/-SASS-404040?style=flat&logo=sass)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=flat&logo=bootstrap)
-![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react)
-![Markdown](https://img.shields.io/badge/-Markdown-404040?style=flat&logo=Markdown)   
+![Markdown](https://img.shields.io/badge/-Markdown-404040?style=flat&logo=Markdown)  
+<!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=flat&logo=bootstrap)
+![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react) --> 
 ---
 ### 🛠 Tools:   
 ![WebStorm](https://img.shields.io/badge/-WebStorm-404040?style=flat&logo=webstorm)
