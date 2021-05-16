@@ -8,7 +8,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-404040?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-404040?style=flat&logo=JavaScript)
 ![SASS](https://img.shields.io/badge/-SASS-404040?style=flat&logo=sass)
-![Markdown](https://img.shields.io/badge/-Markdown-404040?style=flat&logo=Markdown)  
+![Markdown](https://img.shields.io/badge/-Markdown-404040?style=flat&logo=Markdown)
+![Java](https://img.shields.io/badge/-Java-404040?style=flat&logo=Java)  
 <!-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-404040?style=flat&logo=bootstrap)
 ![React](https://img.shields.io/badge/-React-404040?style=flat&logo=react) --> 
 ---
