@@ -33,7 +33,7 @@ Linkedin: https://www.linkedin.com/in/eyanchenko/
 ---
 ### ⚙️ GitHub Analytics   
 
-<img height="160em" align="left" alt="VelenaFlower's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VelenaFlower&theme=cobalt&show_icons=true&include_all_commits=true" /> 
+<!-- <img height="160em" align="left" alt="VelenaFlower's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=VelenaFlower&theme=cobalt&show_icons=true&include_all_commits=true" />  -->
 <img height="160em" align="rigth" alt="VelenaFlower's Github Laguages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=VelenaFlower&theme=cobalt&layout=compact&hide=php" />
 
 <!--
